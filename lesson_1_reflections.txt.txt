@@ -1,0 +1,18 @@
+It helped me exclude butgs, in that I allwasy know where I did something wrong
+I don't just have to search for it in the whole text.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Sharing code between each other sure makes a better job at organizing yourself.
+
+What do you think are the pros and cons of manually choosing when to create a commit,
+ like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pros: logical differences. Easier to get to a working version.
+Cons: User error. loosing a file.
+
+Why do you think some version control systems, like Git,
+ allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because files belong together a make sense only in unity. 
+
+git diff f19cb1b80fe27e938e4d72770ca0a42f25e99ecc b0678b161fcf74467ed3a63110557e3d6229cfa6
