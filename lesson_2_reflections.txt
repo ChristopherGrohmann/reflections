@@ -5,3 +5,6 @@ When I initialize I tell git to follow this directory.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Not exactly sure why always everything has to gothrough the staging area.
+
+How can you use the staging area to make sure you have one commit per logical change?
+After a change use the staging area to upload all working files conected.
