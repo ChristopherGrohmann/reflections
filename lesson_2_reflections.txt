@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When I initialize I tell git to follow this directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Not exactly sure why always everything has to gothrough the staging area.
